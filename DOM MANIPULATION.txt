@@ -16,7 +16,7 @@
     #box {
       width: 100px;
       height: 100px;
-      background-color: green;
+      background-color: red;
       margin-top: 10px;
     }
     #hoverText {
